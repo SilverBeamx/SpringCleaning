@@ -1,0 +1,7 @@
+name=Spring Cleaning
+poster=poster.png
+id=springCleaning
+description=Get the remaining zombie count on your Map. Zones are coloured and highlighted with colors. Switch map to "Aerial" instead of "Isometric". MP compatible.
+author=SilverBeam
+modversion=1.0.2
+icon=SpringIcon.png
